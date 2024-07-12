@@ -1,3 +1,6 @@
+WIP
+For now, this is just a copy of [halilugur/SubtitleTranslator](https://github.com/halilugur/SubtitleTranslator)
+
 # Game Subtitle Recognition and Translation
 
 This repository contains a Python project for recognizing subtitles in games and displaying them in the desired language. The project utilizes computer vision, natural language processing, and user interface development techniques.
